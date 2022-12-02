@@ -1,1 +1,2 @@
 good from local commit
+ from local
