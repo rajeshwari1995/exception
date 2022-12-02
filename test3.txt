@@ -13,7 +13,7 @@ from Source :Github Has Revoked the support for password authentication on 13 Au
 Support for password authentication was removed on August 13, 2021
 In order to fix the issue follow the below steps:
 
-from Goto settings of Github account from local to remote
+from Goto settings of Github account from local to remote setting
 Find and Select Developer Settings
 Find and Select Personal access tokens from git local
 Generate a new token
