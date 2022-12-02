@@ -9,7 +9,7 @@ hello from remote
 
 
 
-Github Has Revoked the support for password authentication on 13 Aug 2021 and giving the below mentioned response from local:
+Source :Github Has Revoked the support for password authentication on 13 Aug 2021 and giving the below mentioned response from local Destination:
 
 
 Support for password authentication was removed on August 13, 2021
