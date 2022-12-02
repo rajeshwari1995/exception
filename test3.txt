@@ -17,7 +17,11 @@ In order to fix the issue follow the below steps:
 
 Goto settings of Github account from local to remote
 Find and Select Developer Settings
+<<<<<<< .mine
 Find and Select Personal access tokens from local
+=======
+Find and Select Personal access tokens from git
+>>>>>>> .theirs
 Generate a new token
 Fill in any note and select the access scopes taken from remote to local
 once done click on generate token
