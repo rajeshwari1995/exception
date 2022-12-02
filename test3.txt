@@ -17,7 +17,7 @@ Goto settings of Github account
 Find and Select Developer Settings
 Find and Select Personal access tokens
 Generate a new token
-Fill in any note and select the access scopes
+Fill in any note and select the access scopes taken from remote to local
 once done click on generate token
 Use the generated token in place of a password to communicate with GitHub. 
 
