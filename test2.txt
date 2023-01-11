@@ -1,2 +1,2 @@
-good from local commit one
-from local abcderfj
+good from local commit one two
+from three local abcderfj
